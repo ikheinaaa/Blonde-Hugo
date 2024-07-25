@@ -3,9 +3,9 @@ license = "MIT"
 licenselink = "https://github.com/opera7133/Blonde/blob/master/LICENSE"
 description = "Blonde, A simple theme using Tailwind CSS"
 
-homepage = "https://github.com/opera7133/Blonde"
+homepage = ""
 
-demosite = "https://blonde.pages.dev"
+demosite = ""
 
 tags = ["blog", "minimal", "light", "dark", "simple", "clean", "tailwindcss", "personal", "responsive"]
 features = ["blog"]
